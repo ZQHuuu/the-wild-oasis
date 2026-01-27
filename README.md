@@ -16,11 +16,16 @@ npm i react-error-boundary
 部署：
 npm run build
 
-"terminal.integrated.defaultProfile.windows": "Command Prompt",
-"terminal.integrated.defaultProfile.windows": "Command Prompt",
-
 git：
 git init
+git status
+git add -A 
+git commit -m "Initial commit"
+
+ git remote add origin https://github.com/ZQHuuu/the--wild-oasis.git
+ git push -u origin main
+
+ git commit -m "Update readme"
 
 账号密码：
 zhiqing@example.com
